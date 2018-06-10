@@ -12,7 +12,7 @@ public class WishGenerator {
 		System.out.println("Hi : "+name);
 	}
 	public void hello(String name){
-		System.out.println("Hi : "+name);
+		System.out.println("Hello : "+name);
 	}
 	
 }

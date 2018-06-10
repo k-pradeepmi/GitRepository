@@ -11,5 +11,8 @@ public class WishGenerator {
 	public void hi(String name){
 		System.out.println("Hi : "+name);
 	}
+	public void hello(String name){
+		System.out.println("Hi : "+name);
+	}
 	
 }

@@ -10,6 +10,7 @@ public class WishTest {
 		VoterEligibility vote=new VoterEligibility();
 		vote.checkVoterEligibility("Pradeep", 18);
 		vote.checkVoterEligibility("Saurabh", 101);
+		vote.checkVoterEligibility("Rahul", 16);
 	}
   
 }

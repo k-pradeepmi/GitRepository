@@ -5,6 +5,7 @@ public class WishGenerator {
 	public void wish(String user){
 
 		System.out.println("Good Evening : "+user);
+		System.out.println("Good Evening : Raja ");
 
 	}
 	
